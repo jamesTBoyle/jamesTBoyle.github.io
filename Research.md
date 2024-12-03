@@ -1,3 +1,6 @@
+layout: page
+title: "Ongoing Research Projects"
+permalink: jamesTBoyle.github.io/Research
 # Ongoing Research Projects
 
 ## Arthrodire Placoderms
