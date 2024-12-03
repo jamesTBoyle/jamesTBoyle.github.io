@@ -2,17 +2,11 @@
 
 ## Arthrodire Placoderms
   ***Dunkleosteus* ontogeny and taxonomy**
-
-  
   **Arthrodires of northern Pennsylvania**
-
-
   **Pipe Creek Selenosteid**
-
 
 ## Graptolite Extinction Risk
   **Geographic Range Measures**
-
   **Biofacies, persistence, and sampling**
 
 # Students Supervised
