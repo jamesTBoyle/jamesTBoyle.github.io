@@ -20,4 +20,13 @@ About Me: I am an Assistant Teaching Professor in the [Geology Department](https
 - GLY 458/558: Macroevolution
 - GLY 478/578: Advanced Field Methods
 
+<u>Course Taught at Other Institutions</u>
+SUNY Geneseo
+- GSCI 120: Our Geological Environment
+- GSCI 121: Our Geological Environment Lab
+
+Niagara University
+- BIO/ENV 103: Environmental Science
+- BIO/ENV 105: Environmental Health
+
 [^1]: These are cross-listed as graduate courses
